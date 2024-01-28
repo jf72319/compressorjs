@@ -1,6 +1,6 @@
 {
-  "name": "compressorjs",
-  "version": "1.2.1",
+  "name": "magic-compressorjs",
+  "version": "1.0.0",
   "description": "JavaScript image compressor.",
   "main": "dist/compressor.common.js",
   "module": "dist/compressor.esm.js",
@@ -10,8 +10,7 @@
   "homepage": "https://fengyuanchen.github.io/compressorjs",
   "license": "MIT",
   "author": {
-    "name": "Chen Fengyuan",
-    "url": "https://chenfengyuan.com/"
+    "name": "Little Pea"
   },
   "files": [
     "src",
